@@ -1,3 +1,4 @@
+![Picture](https://github.com/pku-H2R/DataScienceProjects/blob/master/Picture/datascienceproject.png)
 # Getting Started
 
 # Content
