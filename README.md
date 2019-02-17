@@ -2,8 +2,6 @@
    <img src=https://github.com/pku-H2R/DataScienceProjects/blob/master/Picture/datascienceproject.png />
 </p>
 
-# Getting Started
-
 # Content
 * [Beginner Level](#Beginner-Level)
 * [Intermediate Level](#Intermediate-Level)
