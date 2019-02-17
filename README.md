@@ -1,6 +1,7 @@
 <p float="center">
-<img src=https://github.com/pku-H2R/DataScienceProjects/blob/master/Picture/datascienceproject.png />
+   <img src=https://github.com/pku-H2R/DataScienceProjects/blob/master/Picture/datascienceproject.png />
 </p>
+
 # Getting Started
 
 # Content
