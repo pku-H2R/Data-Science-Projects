@@ -35,3 +35,6 @@
 * Age Detection of Indian Actors Data
 * Recommendation Engine Data
 * VisualQA Data
+
+# Website
+[Analytics Vidhya](https://www.analyticsvidhya.com/blog/2018/05/24-ultimate-data-science-projects-to-boost-your-knowledge-and-skills/)
